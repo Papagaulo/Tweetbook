@@ -3,14 +3,15 @@ using System.Collections.Generic;
 using System.Text;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-
+using TweetBook.Domains;
 namespace TweetBook.Data
 {
-    public class ApplicationDbContext : IdentityDbContext
+    public class AppDbContext : IdentityDbContext
     {
-        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
+        public AppDbContext(DbContextOptions<AppDbContext> options)
             : base(options)
         {
         }
+        public DbSet<Post> Posts { get; set; }
     }
 }

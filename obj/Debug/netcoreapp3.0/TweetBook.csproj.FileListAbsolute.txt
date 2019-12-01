@@ -42,3 +42,12 @@
 /home/papagaulo/source/repos/TweetBook/obj/Debug/netcoreapp3.0/TweetBook.csproj.CopyComplete
 /home/papagaulo/source/repos/TweetBook/obj/Debug/netcoreapp3.0/TweetBook.dll
 /home/papagaulo/source/repos/TweetBook/obj/Debug/netcoreapp3.0/TweetBook.pdb
+/home/papagaulo/source/repos/TweetBook/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.JsonPatch.dll
+/home/papagaulo/source/repos/TweetBook/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/home/papagaulo/source/repos/TweetBook/bin/Debug/netcoreapp3.0/Microsoft.DotNet.PlatformAbstractions.dll
+/home/papagaulo/source/repos/TweetBook/bin/Debug/netcoreapp3.0/Microsoft.Extensions.DependencyModel.dll
+/home/papagaulo/source/repos/TweetBook/bin/Debug/netcoreapp3.0/Microsoft.OpenApi.dll
+/home/papagaulo/source/repos/TweetBook/bin/Debug/netcoreapp3.0/Newtonsoft.Json.Bson.dll
+/home/papagaulo/source/repos/TweetBook/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/papagaulo/source/repos/TweetBook/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/papagaulo/source/repos/TweetBook/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerUI.dll
